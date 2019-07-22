@@ -13,3 +13,6 @@
 
 # Ignore .env files as they are personal
 /.env
+
+# Ignore yarn file
+/web/core/yarn.lock
